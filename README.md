@@ -1,11 +1,18 @@
 # Muhammad-Ali-Anjum
 <h1 align="center">Hi 👋, I'm Muhammad Ali Anjum</h1>
-<h3 align="center">A passionate FULL-STAKE developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **MERN STAKE**
+- 🔭 I’m currently working **MERN STACK**
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 👯 I’m looking to collaborate on **Rinor**
+
+- 🤝 I’m looking for help with **Rinor**
+
+- 💬 Ask me about **HTML ,CSS , BOOSTRAP , JAVASCRIPT**
 
 - 📫 How to reach me **anjumbalgharii@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
