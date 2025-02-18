@@ -7,11 +7,8 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **Rinor**
 
-- 🤝 I’m looking for help with **Rinor**
-
-- 💬 Ask me about **HTML ,CSS , BOOSTRAP , JAVASCRIPT**
+- 💬 Ask me about **HTML ,CSS , BOOSTRAP , JAVASCRIPT, Wordpress**
 
 - 📫 How to reach me **anjumbalgharii@gmail.com**
 
