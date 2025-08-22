@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Anjum</h1>
 <h3 align="center">A passionate Full-Stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **MERN STACK + AI/NLP**
 - 🌱 I’m currently learning **MERN + AI/NLP**
 - 🧠 Building **AI-based NLP language translator** (text preprocessing, tokenization, Transformers, model deployment)
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, WordPress, React, Node.js, Express, MongoDB, Python (NLP)**
-- 🌐 Portfolio: **https://thespecialistsuite.com/**
 - 📫 How to reach me: **anjumbalgharii@gmail.com**
 
 <p align="left"></p>
