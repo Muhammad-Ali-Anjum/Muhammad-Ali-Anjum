@@ -10,10 +10,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 **Currently working on:** MERN Stack applications  
-- 🌱 **Learning:** AI and **Natural Language Processing (NLP)**  
-- 🧠 **Focus Area:** **AI-based NLP Language Translator** (text preprocessing, tokenization, Transformers, deployment)  
-- 💬 **Ask me about:** HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, MongoDB, WordPress, Python (NLP)  
+- 🔭 **Currently working on:** **AI-based NLP Language Translator**  
+- 🌱 **Learning:** Advanced **Machine Learning** and **Natural Language Processing**  
+- 💬 **Ask me about:** MERN Stack, AI, NLP, Language Translators, Web Development  
 - 🌐 **Portfolio:** [https://thespecialistsuite.com/](https://thespecialistsuite.com/)  
 - 📫 **Email:** **anjumbalgharii@gmail.com**  
 
@@ -39,13 +38,13 @@
 
 ---
 
-## 🚀 Featured Project: AI-based NLP Language Translator
-- **Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React  
-- **Features:**  
-  - Text preprocessing & tokenization  
-  - Model training & fine-tuning (BLEU/F1 metrics)  
-  - REST API for real-time translation  
-- **Goal:** High-quality, scalable language translation using AI and NLP  
+## 🚀 Current Project: NLP AI-based Language Translator
+- **Tech Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React  
+- **Key Focus:**  
+  - Data preprocessing & tokenization  
+  - Model training and fine-tuning (BLEU/F1 metrics)  
+  - Building APIs for real-time translation  
+- **Objective:** Create an **AI-powered translator** for accurate and scalable language conversion  
 
 ---
 
