@@ -40,7 +40,7 @@
 ## 🚀 Current Project: NLP AI-based Language Translator
 - **Tech Stack:** Python, PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React  
 - **Key Focus:**  
-  - Data preprocessing & tokenization  
+  - Data preprocessing & tokenization   
   - Model training and fine-tuning (BLEU/F1 metrics)  
   - Building APIs for real-time translation  
 - **Objective:** Create an **AI-powered translator** for accurate and scalable language conversion  
