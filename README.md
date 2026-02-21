@@ -88,17 +88,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=tokyonight&cache_seconds=1800"
     height="150"
   />
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true" />
-</picture>
 </p>
 
 ---
