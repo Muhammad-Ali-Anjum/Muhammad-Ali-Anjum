@@ -80,8 +80,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ali-Anjum&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="150"
+  />
 </p>
 
 ---
