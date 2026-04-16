@@ -1,10 +1,10 @@
-<!--- PROFESSIONAL & ATTRACTIVE GITHUB PROFILE README --->
+<!--- PROFESSIONAL & RELIABLE GITHUB PROFILE README --->
 
-<!-- Modern Gradient Banner (replaces unreliable image) -->
+<!-- GRADIENT BANNER (No external image needed - always works) -->
 <div align="center">
-  <div style="background: linear-gradient(135deg, #0B1120 0%, #1A2332 100%); padding: 40px; border-radius: 24px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-    <h1 style="color: #FFFFFF; font-size: 48px; margin: 0;">Muhammad Ali Anjum</h1>
-    <p style="color: #A0B3D9; font-size: 20px; margin: 10px 0 0;">Full Stack Developer · MERN Expert · AI & NLP Engineer</p>
+  <div style="background: linear-gradient(135deg, #0B1120 0%, #1E3A8A 100%); padding: 50px 20px; border-radius: 24px; margin: 20px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <h1 style="color: #FFFFFF; font-size: 52px; margin: 0; font-family: 'Segoe UI', sans-serif;">Muhammad Ali Anjum</h1>
+    <p style="color: #BFDBFE; font-size: 22px; margin: 12px 0 0;">Full Stack Developer · MERN Expert · AI & NLP Engineer</p>
   </div>
 </div>
 
@@ -41,34 +41,29 @@
 
 <br />
 
-<!-- Tech Stack with Professional Badges -->
+<!-- Tech Stack -->
 <h2 align="center" style="color: #E2E8F0;">🛠️ Technical Skills</h2>
 
 <div align="center">
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <br /><br />
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <br /><br />
-  <!-- Databases -->
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <br /><br />
-  <!-- AI/ML -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <br /><br />
-  <!-- DevOps & Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -76,13 +71,13 @@
 
 <br />
 
-<!-- Projects Section - Clean Cards -->
+<!-- Projects -->
 <h2 align="center" style="color: #E2E8F0;">🚀 Key Projects</h2>
 
 <div align="center">
   <table style="width: 90%; max-width: 1100px; margin: auto; border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td width="50%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B; vertical-align: top;">
+      <td width="50%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B;">
         <h3 style="color: #60A5FA;">📚 NPIT LMS</h3>
         <p><em>Enterprise Learning Management System</em></p>
         <ul style="text-align: left; color: #CBD5E1;">
@@ -91,14 +86,10 @@
           <li>Course, class, user & fee dashboards</li>
           <li>JWT authentication & protected routes</li>
         </ul>
-        <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-        </p>
-        <p><strong>My Role:</strong> System Architecture · REST APIs · RBAC Implementation</p>
+        <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, PostgreSQL</p>
+        <p><strong>My Role:</strong> System Architecture · REST APIs · RBAC</p>
       </td>
-      <td width="50%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B; vertical-align: top;">
+      <td width="50%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B;">
         <h3 style="color: #60A5FA;">🤖 AI Language Translator</h3>
         <p><em>NLP-Powered Real-Time Translation</em></p>
         <ul style="text-align: left; color: #CBD5E1;">
@@ -107,11 +98,7 @@
           <li>Evaluation with BLEU & F1 metrics</li>
           <li>FastAPI backend + React frontend</li>
         </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        </p>
+        <p><strong>Stack:</strong> Python, PyTorch, Hugging Face, FastAPI, React</p>
         <p><strong>Goal:</strong> Accurate & scalable cross-language translation</p>
       </td>
     </tr>
@@ -120,7 +107,7 @@
 
 <br />
 
-<!-- GitHub Analytics with Reliable Stats Cards -->
+<!-- GitHub Stats -->
 <h2 align="center" style="color: #E2E8F0;">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -136,31 +123,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Ali-Anjum&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
 </div>
 
-<br />
-
-<!-- Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ali-Anjum&theme=react-dark&bg_color=0F172A&color=60A5FA&line=3B82F6&point=93C5FD&area=true&hide_border=true" width="95%" />
 </div>
 
 <br />
 
-<!-- Connect Section -->
+<!-- Connect -->
 <h2 align="center" style="color: #E2E8F0;">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="mailto:anjumbalgharii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Muhammad-Ali-Anjum">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-ali-anjum-aa345727b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/anjumbalghari">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
+  <a href="mailto:anjumbalgharii@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Muhammad-Ali-Anjum"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-ali-anjum-aa345727b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/anjumbalghari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <br />
