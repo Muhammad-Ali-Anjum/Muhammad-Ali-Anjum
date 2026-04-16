@@ -1,6 +1,3 @@
-<!--- PROFESSIONAL & RELIABLE GITHUB PROFILE README --->
-
-<!-- GRADIENT BANNER (No external image needed - always works) -->
 <div align="center">
   <p align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" />
