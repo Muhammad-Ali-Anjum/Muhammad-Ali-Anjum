@@ -24,6 +24,7 @@
         🔭 <strong style="color:#3B82F6;">Current Focus</strong><br />
         NPIT LMS · AI Translator
       </td>
+      
       <td align="center" style="background: #0F172A; border-radius: 16px; padding: 16px; border: 1px solid #1E293B;">
         🌱 <strong style="color:#3B82F6;">Learning</strong><br />
         Advanced ML · NLP · LLMs
