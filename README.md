@@ -145,18 +145,18 @@
           <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">631</div>
           <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">📊 Total Contributions</div>
           <div style="color: #CBD5E1; font-size: 12px;">Sep 26, 2023 - Present</div>
-        </td>
+         </td>
         <td align="center" style="padding: 20px; border-left: 1px solid #334155; border-right: 1px solid #334155;">
           <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">1</div>
           <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">🔥 Current Streak</div>
           <div style="color: #CBD5E1; font-size: 12px;">May 25</div>
-        </td>
+         </td>
         <td align="center" style="padding: 20px;">
           <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">19</div>
           <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">⚡ Longest Streak</div>
           <div style="color: #CBD5E1; font-size: 12px;">Apr 21 - May 9</div>
-        </td>
-      </tr>
+         </td>
+      </table>
     </table>
   </div>
 </div>
@@ -203,19 +203,13 @@
 
 <br />
 
-<!-- Animated Footer with Working View Counter Options -->
+<!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
   <div style="margin-top: -60px; padding-bottom: 40px;">
     
-    <!-- OPTION 1: Simple Text Counter (No external service needed) -->
-    <div style="margin: 20px 0;">
-      <img src="https://img.shields.io/badge/✨ Profile%20Views-1234-blue?style=flat-square&logo=github&color=3B82F6" />
-    </div>
-    
-    <!-- OPTION 2: Alternative Working Counter Service -->
-    <!-- Replace 'YOUR_USERNAME' with your GitHub username -->
-    <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhammad-Ali-Anjum&count_bg=%233B82F6&title_bg=%230F172A&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" /> -->
+    <!-- Working Profile View Counter (FIXED) -->
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhammad-Ali-Anjum&count_bg=%233B82F6&title_bg=%230F172A&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views" />
     
     <p style="color: #94A3B8; margin-top: 20px;">
       ⚡ <strong>Always building, always learning</strong> — open to collaborations on AI & full‑stack projects.<br />
