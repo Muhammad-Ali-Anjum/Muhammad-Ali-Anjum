@@ -156,7 +156,7 @@
           <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">⚡ Longest Streak</div>
           <div style="color: #CBD5E1; font-size: 12px;">Apr 21 - May 9</div>
         </td>
-      </table>
+      </tr>
     </table>
   </div>
 </div>
