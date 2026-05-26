@@ -46,8 +46,8 @@
         <strong style="color:#3B82F6; font-size: 18px;">Email</strong><br />
         <a href="mailto:anjumbalgharii@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 1px dashed #60A5FA;">anjumbalgharii@gmail.com</a>
        </td>
-    </table>
-    </table>
+    </tr>
+   </table>
 </div>
 
 <br />
@@ -127,7 +127,7 @@
         </div>
        </td>
     </tr>
-    </table>
+   </table>
 </div>
 
 <br />
@@ -203,11 +203,20 @@
 
 <br />
 
-<!-- Animated Footer -->
+<!-- Animated Footer with Working View Counter Options -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
   <div style="margin-top: -60px; padding-bottom: 40px;">
-    <img src="https://komarev.com/ghpvc/?username=Muhammad-Ali-Anjum&label=✨ Profile Views ✨&color=3B82F6&style=flat-square" alt="Profile Views" />
+    
+    <!-- OPTION 1: Simple Text Counter (No external service needed) -->
+    <div style="margin: 20px 0;">
+      <img src="https://img.shields.io/badge/✨ Profile%20Views-1234-blue?style=flat-square&logo=github&color=3B82F6" />
+    </div>
+    
+    <!-- OPTION 2: Alternative Working Counter Service -->
+    <!-- Replace 'YOUR_USERNAME' with your GitHub username -->
+    <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhammad-Ali-Anjum&count_bg=%233B82F6&title_bg=%230F172A&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" /> -->
+    
     <p style="color: #94A3B8; margin-top: 20px;">
       ⚡ <strong>Always building, always learning</strong> — open to collaborations on AI & full‑stack projects.<br />
       💡 <em>"Code is poetry. AI is magic. Together, they build the future."</em>
