@@ -26,28 +26,28 @@
 <div align="center">
   <table style="width: 92%; max-width: 1100px; margin: auto; border-collapse: collapse; background: transparent;">
     <tr>
-      <td align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 24px; padding: 20px; border: 1px solid #334155; transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 25px -12px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
+      <td align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 24px; padding: 20px; border: 1px solid #334155;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 25px -12px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
         <div style="font-size: 32px; margin-bottom: 12px;">🔭</div>
         <strong style="color:#3B82F6; font-size: 18px;">Current Focus</strong><br />
         <span style="color:#CBD5E1;">NPIT LMS · AI Translator</span>
-      </td>
+       </td>
       <td align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 24px; padding: 20px; border: 1px solid #334155;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 25px -12px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
         <div style="font-size: 32px; margin-bottom: 12px;">🌱</div>
         <strong style="color:#3B82F6; font-size: 18px;">Learning</strong><br />
         <span style="color:#CBD5E1;">Advanced ML · NLP · LLMs</span>
-      </td>
+       </td>
       <td align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 24px; padding: 20px; border: 1px solid #334155;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 25px -12px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
         <div style="font-size: 32px; margin-bottom: 12px;">💬</div>
         <strong style="color:#3B82F6; font-size: 18px;">Ask me about</strong><br />
         <span style="color:#CBD5E1;">MERN · AI APIs · System Design</span>
-      </td>
+       </td>
       <td align="center" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 24px; padding: 20px; border: 1px solid #334155;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 20px 25px -12px rgba(0,0,0,0.5)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none';">
         <div style="font-size: 32px; margin-bottom: 12px;">📫</div>
         <strong style="color:#3B82F6; font-size: 18px;">Email</strong><br />
         <a href="mailto:anjumbalgharii@gmail.com" style="color:#60A5FA; text-decoration: none; border-bottom: 1px dashed #60A5FA;">anjumbalgharii@gmail.com</a>
-      </td>
-    </tr>
-   </table>
+       </td>
+    </table>
+    </table>
 </div>
 
 <br />
@@ -110,7 +110,7 @@
           <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">React, Node.js, Express, MongoDB, PostgreSQL</span></p>
           <p><strong style="color:#3B82F6;">My Role:</strong> <span style="color:#CBD5E1;">System Architecture · REST APIs · RBAC</span></p>
         </div>
-      </td>
+       </td>
       <td width="50%" style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 28px; padding: 28px; border: 1px solid #3B82F6; box-shadow: 0 10px 40px -15px rgba(59,130,246,0.3);">
         <div style="font-size: 48px; margin-bottom: 8px;">🤖</div>
         <h3 style="color: #60A5FA; font-size: 28px; margin: 12px 0 8px;">AI Language Translator</h3>
@@ -125,18 +125,43 @@
           <p><strong style="color:#3B82F6;">Stack:</strong> <span style="color:#CBD5E1;">Python, PyTorch, Hugging Face, FastAPI, React</span></p>
           <p><strong style="color:#3B82F6;">Goal:</strong> <span style="color:#CBD5E1;">Accurate & scalable cross-language translation</span></p>
         </div>
-      </td>
+       </td>
     </tr>
-   </table>
+    </table>
 </div>
 
 <br />
 
-<!-- GitHub Stats with Premium Styling -->
+<!-- Custom GitHub Analytics Card with Your Actual Data -->
 <h2 align="center" style="color: #E2E8F0; font-size: 32px; margin-bottom: 24px;">
   <span style="background: linear-gradient(135deg, #3B82F6, #06B6D4); padding: 8px 32px; border-radius: 60px; display: inline-block;">📊 GitHub Analytics 📊</span>
 </h2>
 
+<div align="center">
+  <div style="background: linear-gradient(135deg, #0F172A, #1E293B); border-radius: 32px; padding: 40px 20px; margin: 20px auto; width: 85%; border: 1px solid #3B82F6; box-shadow: 0 20px 40px -15px rgba(59,130,246,0.2);">
+    <table style="width: 100%; margin: auto; border-collapse: collapse;">
+      <tr>
+        <td align="center" style="padding: 20px;">
+          <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">631</div>
+          <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">📊 Total Contributions</div>
+          <div style="color: #CBD5E1; font-size: 12px;">Sep 26, 2023 - Present</div>
+        </td>
+        <td align="center" style="padding: 20px; border-left: 1px solid #334155; border-right: 1px solid #334155;">
+          <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">1</div>
+          <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">🔥 Current Streak</div>
+          <div style="color: #CBD5E1; font-size: 12px;">May 25</div>
+        </td>
+        <td align="center" style="padding: 20px;">
+          <div style="font-size: 48px; font-weight: 800; background: linear-gradient(135deg, #3B82F6, #60A5FA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">19</div>
+          <div style="color: #94A3B8; font-size: 14px; margin-top: 8px;">⚡ Longest Streak</div>
+          <div style="color: #CBD5E1; font-size: 12px;">Apr 21 - May 9</div>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<!-- Standard GitHub Stats -->
 <div align="center">
   <div style="background: #0F172A; border-radius: 32px; padding: 30px 20px; margin: 20px auto; width: 92%; border: 1px solid #334155;">
     <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ali-Anjum&show_icons=true&theme=radical&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&ring=3B82F6&include_all_commits=true" height="180" />
