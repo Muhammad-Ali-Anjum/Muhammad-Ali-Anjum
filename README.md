@@ -205,7 +205,7 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
-<img src="https://img.shields.io/badge/👁️_Profile_Views-1.2K-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://countapi.xyz/embed/muhammad-ali-anjum/readme?color=3B82F6" alt="Profile Views" />
 <p style="color: #94A3B8; margin-top: 20px;">
   ⚡ <strong>Always building, always learning</strong> — open to collaborations on AI & full‑stack projects.<br />
   💡 <em>"Code is poetry. AI is magic. Together, they build the future."</em>
