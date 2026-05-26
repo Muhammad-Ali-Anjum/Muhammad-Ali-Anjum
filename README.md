@@ -205,9 +205,7 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&gradientColorStart=0F172A&gradientColorEnd=3B82F6" width="100%" />
- <!-- Working Profile View Counter (FIXED) -->
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMuhammad-Ali-Anjum&count_bg=%233B82F6&title_bg=%230F172A&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views" />
-
 <p style="color: #94A3B8; margin-top: 20px;">
   ⚡ <strong>Always building, always learning</strong> — open to collaborations on AI & full‑stack projects.<br />
   💡 <em>"Code is poetry. AI is magic. Together, they build the future."</em>
