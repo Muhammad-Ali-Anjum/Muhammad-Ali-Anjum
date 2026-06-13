@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=O2cT6JPnp1MfGg&pid=ImgRaw&r=0" alt="Banner" width="100%" style="border-radius: 32px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);" />
 </div>
-
 <br />
 
 <div align="center">
@@ -9,8 +8,6 @@
     <h1 style="color: #FFFFFF; font-size: 58px; margin: 0; font-family: 'Segoe UI', system-ui, sans-serif; font-weight: 700; background: linear-gradient(135deg, #FFFFFF, #93C5FD); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Muhammad Ali Anjum</h1>
     <p style="color: #94A3B8; font-size: 24px; margin: 16px 0 0; font-weight: 500; letter-spacing: 0.5px;">Full Stack Developer · MERN Expert · AI & NLP Engineer</p>
     <div style="margin-top: 24px;">
-      <span style="background: rgba(59,130,246,0.2); padding: 8px 20px; border-radius: 40px; color: #60A5FA; font-size: 14px; border: 1px solid rgba(59,130,246,0.4);">✦ 6+ Projects Delivered ✦</span>
-      <span style="background: rgba(59,130,246,0.2); padding: 8px 20px; border-radius: 40px; color: #60A5FA; font-size: 14px; border: 1px solid rgba(59,130,246,0.4); margin-left: 12px;">✦ 2+ Years Experience ✦</span>
     </div>
   </div>
 </div>
